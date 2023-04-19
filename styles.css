@@ -1,0 +1,29 @@
+h1 {
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align:right;
+}
+
+h2 {
+    font-size: 1.0em;
+    display: flex;
+    margin: 5px;
+    padding: 20px;
+    margin-top: 40px;
+    border: 2px solid;
+    border-color: blue;
+}
